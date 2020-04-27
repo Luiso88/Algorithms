@@ -11,7 +11,7 @@ public class Test {
 
 
 //----------------------------------MERGESORT ALGORITHM-----------------------------------------------
-		System.out.println();
+		System.out.println("I changed something");
 		System.out.println("Mergesort Algorithm");
 		MergeSortClass ms = new MergeSortClass();
 		m = new int[] { 1, 107, 2, 24, 3, 11, 28, 5 };
